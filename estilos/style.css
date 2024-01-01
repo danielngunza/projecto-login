@@ -25,7 +25,7 @@ main{
 section{
     position: absolute;
     background-color: #ffff;
-    height: 420px;
+    height: 350px;
     width: 200px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px black;
@@ -40,7 +40,7 @@ div#imagem{
     
     background: #5a5858 url(../imagens/fundo.jpg) no-repeat center  center;
     background-size: cover;
-    height: 200px;
+    height: 130px;
 }
 
 div#formulario h1{
