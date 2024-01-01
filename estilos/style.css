@@ -25,8 +25,8 @@ main{
 section{
     position: absolute;
     background-color: #ffff;
-    height: 500px;
-    width: 250px;
+    height: 420px;
+    width: 200px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px black;
     overflow: hidden;
@@ -45,21 +45,20 @@ div#imagem{
 
 div#formulario h1{
     text-align: center;
-    padding: 10px;
-    margin-bottom: 20px;
+    padding: 3px;
 }
 div#formulario p{
-    padding: 5px;
+    padding: 2px;
     text-align: justify;
     margin-bottom: 2px;
-    font-size: 1em;
+    font-size: .8em;
 }
 div span{
     padding: 5px;
     width: 40px;
 }
 div.input input{
-    height: 30px;
+    height: 10px;
     border: none;
     width: calc(100% - 60px);
 
@@ -67,12 +66,12 @@ div.input input{
 }
 input#submit{
     display: block;
-    height: 40px;
+    height: 30px;
     width: 80%;
-    margin: 10px auto;
+    margin: 8px auto;
     background-color: #5a5858;
     border: 0;
-    border-radius: 10px;
+    border-radius: 8px;
     color: white;
 }
 input#submit:hover{
